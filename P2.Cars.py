@@ -2,7 +2,7 @@
 #link https://github.com/datasciencelovers/Project-2_Cars_Data_Analysis/tree/main
 
 import pandas as pd
-
+import seaborn as sns     
 
 #Import dataset
 data=pd.read_csv("2. Cars Data.csv")
